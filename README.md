@@ -1,6 +1,6 @@
 # minisforum HX90G/HX99G miniPC Hackintosh
 
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.0.1-informational.svg)![MacOS version](https://img.shields.io/badge/Monterey-12.6.1%2021G115-informational.svg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.9-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.2.1-informational.svg)
 
 ![HX90G_1920](ScreenShots/HX90G_1920.png)
 
@@ -21,6 +21,11 @@
 | 有线网卡 |               Intel Ethernet Controller I225-V               |
 
 ## 更新日志
+
+- 02-27-2023
+
+  - 更新 `OpenCore` 到 `v0.8.9`
+  - 修改启动画面 `timeout` = `16`
 
 - 01-07-2023
 
