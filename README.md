@@ -1,6 +1,6 @@
 # minisforum HX90G/HX99G miniPC Hackintosh
 
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.3-informational.svg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.6-informational.svg)
 
 ![HX90G_1920](ScreenShots/HX90G_1920.png)
 
